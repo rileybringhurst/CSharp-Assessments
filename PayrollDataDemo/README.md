@@ -1,7 +1,7 @@
 # Payroll Data Demo
 For a coding assessment
 
-To test the code yourself, unpack Employees.zip and update the input filepath in the Constants section of the code
+To test the code yourself, unpack Employees.zip and update the filepaths in the Constants section of the code
 
 Prompt-
 
